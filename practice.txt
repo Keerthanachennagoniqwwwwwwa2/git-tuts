@@ -2,4 +2,8 @@
 "master-change" 
 =======
 "line 1" 
+<<<<<<< HEAD
 >>>>>>> 6d4fcc1 (add pratice.txt file line-1)
+=======
+"line 2" 
+>>>>>>> 7646d24 (add line-2)
